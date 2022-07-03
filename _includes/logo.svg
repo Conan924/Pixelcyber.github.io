@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Generator: Assembly 1.0 - http://assemblyapp.co -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300">
+	<rect x="0" y="0" width="300" height="300" fill="#ffffff" />
+	<g id="widget" transform="matrix(1,0,0,1,150,150)">
+		<path d="M-58.327,37.4075 L-51.8082,0.951973 L-64.3987,-1.29941 L-58.327,37.4075 Z M-45.2384,-35.4944 L-51.7573,0.961086 L-39.1667,3.21247 L-45.2384,-35.4944 Z" fill="#ff802e" fill-opacity="1" />
+		<path d="M-2.65518,36.8195 L-65.6772,62.6712 L-101.841,-25.4903 L-38.8191,-51.342 L-2.65518,36.8195 Z" fill="#ebe3dc" fill-opacity="0" stroke-width="8.45018" stroke="#1c74c1" stroke-linecap="square" stroke-linejoin="miter" />
+		<path d="M-14.7095,2.5341 L-22.4041,-16.5856 L91.8327,-62.5595 L99.5273,-43.4398 L-14.7095,2.5341 Z" fill="#1c74c1" fill-opacity="0" stroke-width="4.47163" stroke="#1c74c1" stroke-linecap="square" stroke-linejoin="miter" />
+		<path d="M99.8504,-42.7417 C105.436,-45.0012 108.129,-51.352 105.869,-56.9376 C103.609,-62.5232 97.2586,-65.2158 91.673,-62.9562 L99.8504,-42.7417 Z" fill="#1c74c1" fill-opacity="0" stroke-width="3.61618" stroke="#1c74c1" stroke-linecap="square" stroke-linejoin="miter" />
+		<path d="M-3.23579,37.0577 L-10.8353,55.2279 L-47.0565,70.0859 L-65.2268,62.4864 L-67.7913,68.6182 L-47.0333,77.2999 L-5.78578,60.3802 L2.89597,39.6222 Z" fill="#1c74c1" fill-opacity="1" />
+		<path d="M-101.391,-25.6751 L-93.7912,-43.8453 L-57.57,-58.7033 L-39.3997,-51.1038 L-36.8352,-57.2356 L-57.5932,-65.9173 L-98.8407,-48.9976 L-107.522,-28.2396 Z" fill="#1c74c1" fill-opacity="1" />
+	</g>
+</svg>
